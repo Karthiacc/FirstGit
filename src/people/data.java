@@ -28,6 +28,9 @@ public class data {
 		System.out.println("team a is"+' '+team1);
 		
 	}
+	private void empname() {
+		System.out.println("new employee:karthi");
+	}
 	public static void main(String[] args) {
 		data v=new data();
 		v.sample();
