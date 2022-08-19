@@ -31,6 +31,15 @@ public class data {
 	private void empdetail() {
 		System.out.println("employee salary:1200000");
 	}
+		private void empname() {
+			System.out.println("new employee:karthi");
+		}
+//<<<<<<< HEAD
+//	
+//=======
+//	
+//>>>>>>> 05d9713c408c348ae1017aa5eea8799382b7b79a
+	
 	public static void main(String[] args) {
 		data v=new data();
 		v.sample();
