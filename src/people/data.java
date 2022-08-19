@@ -28,6 +28,9 @@ public class data {
 		System.out.println("team a is"+' '+team1);
 		
 	}
+	private void empdetail() {
+		System.out.println("employee salary:1200000");
+	}
 	public static void main(String[] args) {
 		data v=new data();
 		v.sample();
